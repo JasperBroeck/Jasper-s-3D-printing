@@ -10,6 +10,14 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
   {{< card link="#Order" title="Bestel Nu" icon="shopping-bag" >}}
 {{< /cards >}}
 
+Hoe ga ik te werk?
+
+1. Je plaatst je bestelling
+2. Ik controleer het model en bepaal de prijs met onderstaande formule
+3. Ik stuur je een betaalmailtje
+4. Na betaling start ik de print
+5. NA afwerking kun je deze komen halen of verzend ik deze, maar de verzending is voor jouw rekening.
+
 # Order
 
 
