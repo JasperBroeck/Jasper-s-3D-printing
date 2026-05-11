@@ -17,7 +17,7 @@ Hoe ga ik te werk?
 3. Ik stuur je een betaalmailtje
 4. Na betaling start ik de print
 5. Na afwerking kun je deze komen halen of verzend ik deze, verzending voor jouw rekening.
-
+---
 # Order
 
 <iframe data-tally-src="https://tally.so/embed/A7Aj9o?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="1015" frameborder="0" marginheight="0" marginwidth="0" title="Plaats een bestelling"></iframe>
