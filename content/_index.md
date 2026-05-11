@@ -11,7 +11,7 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
   {{< card link="#Order" title="Bestel Nu" icon="shopping-bag" >}}
 {{< /cards >}}
 
-Hoe ga ik te werk?
+**Hoe ga ik te werk?**
 
 1. Je plaatst je bestelling
 2. Ik controleer het model en bepaal de prijs met deze {{< term "formule" >}}
