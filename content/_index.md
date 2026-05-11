@@ -30,8 +30,40 @@ Hoe ga ik te werk?
 
 # FAQ
 
-{{< details title="Click me to reveal" closed="true" >}}
+{{< details title="Wat is de maximale printgrootte?" closed="true" >}}
 
-This will be hidden by default.
+Mijn huidige 3D-printer heeft een maximaal printvolume van 250 x 250 x 280 mm. Dit zou dus theoretisch gezien het maximale formaat zijn voor een print, echter zal een print van dit formaat toch net niet passen door de manier waarop de printer werkt.
+
+{{< /details >}}
+{{< details title="Hoe wordt de prijs berekend?" closed="true" >}}
+
+Ik bereken mijn prijs altijd met een vaste formule en dat is de volgende:
+((prijs filament) * 2) + starttarief (+ verzending indien van toepassing)
+Starttarief = 5 euro.
+
+{{< /details >}}
+{{< details title="Hoe zit het met verzending?" closed="true" >}}
+
+Ik verzend print's ook als dat gevraagd wordt. De prijs wordt dan bepaald aan de hand van de locatie. Ik verzend vanuit Edegem.
+
+{{< /details >}}
+{{< details title="Wanneer moet ik betalen?" closed="true" >}}
+
+Nadat ik het model heb gecontrolleerd stuur ik een betaalmailtje of whatsappje en dan dien je zo spoedig mogelijk te betalen zodat ik de print kan starten.
+
+{{< /details >}}
+{{< details title="Kan ik mijn bestelling komen ophalen?" closed="true" >}}
+
+Als de print klaar is voor ophaling zal ik je via whatsapp verwittigen en dan kun je deze komen ophalen.
+
+{{< /details >}}
+{{< details title="Verzend je ook naar het buitenland?" closed="true" >}}
+
+Neen, enkel België en Nederland.
+
+{{< /details >}}
+{{< details title="Waar kan ik 3D-modellen vinden?" closed="true" >}}
+
+3D-modellen zijn online makkelijk vindbaar op sites als [Printables](https://www.printables.com/), [Thangs](https://thangs.com/) of [Thingiverse](https://www.thingiverse.com/).
 
 {{< /details >}}
