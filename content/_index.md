@@ -30,3 +30,8 @@ Hoe ga ik te werk?
 
 # FAQ
 
+{{< details title="Click me to reveal" closed="true" >}}
+
+This will be hidden by default.
+
+{{< /details >}}

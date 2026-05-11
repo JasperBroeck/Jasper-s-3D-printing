@@ -20,6 +20,9 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+  theme:
+    default: light
+    displayToggle: false
 
   footer:
     displayCopyright: true
