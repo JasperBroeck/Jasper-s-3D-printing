@@ -8,6 +8,10 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
 
 {{< card link="#Order" title="Bestel Nu" icon="shopping-bag" >}}
 
+{{< cards cols="2" >}}
+  {{< card link="#Order" title="Bestel Nu" icon="shopping-bag" >}}
+{{< /cards >}}
+
 # Order
 
 
