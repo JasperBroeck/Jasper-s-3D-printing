@@ -13,10 +13,10 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
 Hoe ga ik te werk?
 
 1. Je plaatst je bestelling
-2. Ik controleer het model en bepaal de prijs met onderstaande formule
+2. Ik controleer het model en bepaal de prijs met deze {{< term "formule" >}}
 3. Ik stuur je een betaalmailtje
 4. Na betaling start ik de print
-5. NA afwerking kun je deze komen halen of verzend ik deze, verzending voor jouw rekening.
+5. Na afwerking kun je deze komen halen of verzend ik deze, verzending voor jouw rekening.
 
 # Order
 
