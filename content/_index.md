@@ -16,7 +16,7 @@ Hoe ga ik te werk?
 2. Ik controleer het model en bepaal de prijs met onderstaande formule
 3. Ik stuur je een betaalmailtje
 4. Na betaling start ik de print
-5. NA afwerking kun je deze komen halen of verzend ik deze, maar de verzending is voor jouw rekening.
+5. NA afwerking kun je deze komen halen of verzend ik deze, verzending voor jouw rekening.
 
 # Order
 
