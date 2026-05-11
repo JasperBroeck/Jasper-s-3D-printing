@@ -1,4 +1,5 @@
 # Hugo configuration file
+baseURL: "https://jaspervdb.be/"
 title: Jasper's 3D Printing
 
 # import hextra as module
