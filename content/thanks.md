@@ -2,6 +2,8 @@
 title: Thank you!
 toc: false
 noindex: true
+sidebar:
+  exclude: true
 ---
 
 # Ik heb je bestelling goed ontvangen!
