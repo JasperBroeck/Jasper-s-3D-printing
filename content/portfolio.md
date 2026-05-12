@@ -1,6 +1,8 @@
 ---
 title: 
 toc: false
+sidebar:
+  exclude: true
 ---
 
 # Portfolio
