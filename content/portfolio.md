@@ -4,7 +4,7 @@ toc: false
 ---
 
 # Portfolio
-Hier is een kleine verzameling van mijn werk. Deze zal worden uitgebreid naarmate ik meer klanten-jobs doe. Mijn eigen projecten zullen altijd een {{< badge content="eigen werk" color="amber" >}} -badge hebbem.
+Hier is een kleine verzameling van mijn werk. Deze zal worden uitgebreid naarmate ik meer klanten-jobs doe. Mijn eigen projecten zullen altijd een {{< badge content="eigen werk" color="amber" >}} -badge hebben.
 {{< cards cols="2" >}}
   {{< card link="/" title="Benchy" tag="eigen werk" tagColor="amber" image="/images/IMG_0702.png" subtitle="" >}}
   {{< card link="/" title="Boulderblock Grips" tag="eigen werk" tagColor="amber" image="/images/IMG_0703.png" subtitle="" >}}
