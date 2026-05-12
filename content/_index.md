@@ -11,7 +11,7 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
 
 {{< cards cols="2" >}}
   {{< card link="https://tally.so/r/A7Aj9o" title="Bestel Nu" icon="shopping-bag" >}}
-  {{< card link="/portfolio" title="Portfolio" icon="cards" tag= "Coming Soon!" >}}
+  {{< card link="/portfolio" title="Portfolio" icon="cards" >}}
 {{< /cards >}}
 
 **Hoe ga ik te werk?**
