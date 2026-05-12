@@ -54,12 +54,12 @@ Ik verzend print's ook als dat gevraagd wordt. De prijs wordt dan bepaald aan de
 {{< /details >}}
 {{< details title="Wanneer moet ik betalen?" closed="true" >}}
 
-Nadat ik het model heb gecontrolleerd stuur ik een betaalmailtje of whatsappje en dan dien je zo spoedig mogelijk te betalen zodat ik de print kan starten.
+Nadat ik het model heb gecontrolleerd stuur ik een betaalmailtje en dan dien je zo spoedig mogelijk te betalen zodat ik de print kan starten.
 
 {{< /details >}}
 {{< details title="Kan ik mijn bestelling komen ophalen?" closed="true" >}}
 
-Als de print klaar is voor ophaling zal ik je via whatsapp verwittigen en dan kun je deze komen ophalen.
+Als de print klaar is voor ophaling zal ik je via mail verwittigen en dan kun je deze komen ophalen.
 
 {{< /details >}}
 {{< details title="Verzend je ook naar het buitenland?" closed="true" >}}
