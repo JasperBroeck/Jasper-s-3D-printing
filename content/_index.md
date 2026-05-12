@@ -48,7 +48,7 @@ Mijn huidige 3D-printer heeft een maximaal printvolume van 250 x 250 x 280 mm. D
 {{< details title="Hoe wordt de prijs berekend?" closed="true" >}}
 
 Ik bereken mijn prijs altijd met een vaste formule en dat is de volgende:
-((prijs filament) * 2) + starttarief (+ verzending indien van toepassing)
+((prijs filament) * 3) + starttarief (+ verzending indien van toepassing)
 Starttarief = 12 euro.
 
 {{< /details >}}
