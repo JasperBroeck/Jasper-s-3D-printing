@@ -27,6 +27,7 @@ menu:
       weight: 2
 
 params:
+  externalLinkDecoration: true
   navbar:
     displayTitle: true
     displayLogo: false
