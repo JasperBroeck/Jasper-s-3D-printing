@@ -23,7 +23,7 @@ menu:
       pageRef: /
       weight: 1
     - name: Portfolio
-      pageRef: /pages/portfolio
+      pageRef: /portfolio
       weight: 2
 
 params:
