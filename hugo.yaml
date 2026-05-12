@@ -17,6 +17,15 @@ markup:
   highlight:
     noClasses: false
 
+menu:
+  main:
+    - name: Home
+      pageRef: /_index
+      weight: 1
+    - name: Portfolio
+      pageRef: /portfolio
+      weight: 2
+
 params:
   navbar:
     displayTitle: true
