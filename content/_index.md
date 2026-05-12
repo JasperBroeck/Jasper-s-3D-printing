@@ -35,6 +35,11 @@ Offerte is altijd vrijblijvend. Je betaalt pas nadat je akkoord gaat met de prij
 
 # FAQ
 
+{{< details title="Waar kan ik 3D-modellen vinden?" closed="true" >}}
+
+3D-modellen zijn online makkelijk vindbaar op sites als [Printables](https://www.printables.com/), [Thangs](https://thangs.com/) of [Thingiverse](https://www.thingiverse.com/).
+
+{{< /details >}}
 {{< details title="Wat is de maximale printgrootte?" closed="true" >}}
 
 Mijn huidige 3D-printer heeft een maximaal printvolume van 250 x 250 x 280 mm. Dit zou dus theoretisch gezien het maximale formaat zijn voor een print, echter zal een print van dit formaat toch net niet passen door de manier waarop de printer werkt.
@@ -65,11 +70,6 @@ Als de print klaar is voor ophaling zal ik je via mail verwittigen en dan kun je
 {{< details title="Verzend je ook naar het buitenland?" closed="true" >}}
 
 Neen, enkel België en Nederland.
-
-{{< /details >}}
-{{< details title="Waar kan ik 3D-modellen vinden?" closed="true" >}}
-
-3D-modellen zijn online makkelijk vindbaar op sites als [Printables](https://www.printables.com/), [Thangs](https://thangs.com/) of [Thingiverse](https://www.thingiverse.com/).
 
 {{< /details >}}
 
