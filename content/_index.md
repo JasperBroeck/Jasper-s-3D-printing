@@ -67,3 +67,6 @@ Neen, enkel België en Nederland.
 3D-modellen zijn online makkelijk vindbaar op sites als [Printables](https://www.printables.com/), [Thangs](https://thangs.com/) of [Thingiverse](https://www.thingiverse.com/).
 
 {{< /details >}}
+
+Je kunt me altijd bereiken via [jaspervandenbroeck2@proton.me](mailto:jaspervandenbroeck2@proton.me) voor meer vragen.
+Ook voor persoonlijk ontworpen modellen kun je me bereiken.
