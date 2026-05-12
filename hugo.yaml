@@ -33,12 +33,12 @@ params:
   theme:
     default: light
     displayToggle: false
-
   footer:
     displayCopyright: true
     displayPoweredBy: true
     copyright: "© 2026 Jasper's 3D Printing. Alle rechten voorbehouden."
-
   editURL:
     enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  page:
+    width: wide
