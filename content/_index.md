@@ -8,7 +8,7 @@ toc: false
 Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wat ik maar nodig heb en ik wil anderen ook net dat plezier kunnen geven. Daarom start ik deze printservice. Je plaatst je bestelling en enkele dagen later heb je je stuk in huis!
 
 {{< cards cols="2" >}}
-  {{< card link="#Order" title="Bestel Nu" icon="shopping-bag" >}}
+  {{< card link="#order" title="Bestel Nu" icon="shopping-bag" >}}
 {{< /cards >}}
 
 **Hoe ga ik te werk?**
