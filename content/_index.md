@@ -1,6 +1,8 @@
 ---
 title: 
 toc: false
+sidebar:
+  display: false
 ---
 
 # About Me
