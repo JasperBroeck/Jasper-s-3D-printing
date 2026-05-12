@@ -51,7 +51,7 @@ Ik bereken mijn prijs altijd met een vaste formule en dat is de volgende:
 ((prijs filament) * 2) + starttarief (+ verzending indien van toepassing)
 Starttarief = 12 euro.
 
-De prijs van het filament is meestal maar een aantal cent tot een aantal misschien 3 euro voor grotere prints.
+De prijs van het filament is meestal maar een aantal cent tot misschien 2 euro voor grotere prints.
 
 {{< /details >}}
 {{< details title="Hoe zit het met verzending?" closed="true" >}}
