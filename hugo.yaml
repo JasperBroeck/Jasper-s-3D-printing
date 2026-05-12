@@ -37,6 +37,7 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
+    copyright: "© 2026 Jasper's 3D Printing. Alle rechten voorbehouden."
 
   editURL:
     enable: false
