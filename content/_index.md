@@ -22,6 +22,8 @@ Ik ben Jasper, een vrolijke jonge gast. Sinds ik een 3D printer heb, print ik wa
 4. Na betaling start ik de print
 5. Na afwerking kun je deze komen halen of verzend ik deze, verzending voor jouw rekening.
 
+Indien je geen interesse meer hebt na het zien van de prijs, dien je niet te betalen en dan annuleer ik de bestelling.
+
 ---
 
 # Order {#order-form}
