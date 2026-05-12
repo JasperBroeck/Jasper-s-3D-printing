@@ -1,7 +1,7 @@
 ---
-title: Portfolio
+title: 
 toc: false
 ---
 
-# This is a heading
-and this is a paragraph
+# Portfolio
+Here is a small preview of previous prints. This list will be extended as I get to print more client work.
