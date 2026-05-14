@@ -18,6 +18,8 @@ Jasper Van den Broeck
 
 **Jasper's 3D Printing** – [jaspervdb.be](https://jaspervdb.be)
 
+---
+
 # Verzending
 
 **Subject:** Je bestelling is onderweg! 📦 – Jasper's 3D Printing
