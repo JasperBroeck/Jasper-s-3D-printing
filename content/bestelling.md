@@ -17,11 +17,11 @@ Hierbij vind je de definitieve prijsberekening voor jouw project:
 *   **Totaalprijs:** **€\[Totaalbedrag\]**
     
 
-**Betaling & Start:**Je kunt de betaling eenvoudig voldoen via onderstaande betaallink (Bancontact/Payconiq):👉 **\[Link naar betaalverzoek hier plakken\]**
+**Betaling & Start:** Je kunt de betaling eenvoudig voldoen via onderstaande betaallink (Bancontact/Payconiq):👉 **\[Link naar betaalverzoek hier plakken\]**
 
 Zodra de betaling binnen is, reserveer ik de printer voor jouw opdracht en gaat hij direct aan het werk.
 
-**Ophaling:**Je krijgt van mij een berichtje zodra de print(s) klaar zijn voor ophaling hier in Edegem. Mocht je nog vragen hebben over de materiaalkeuze of de afwerking, laat het dan gerust weten!
+**Ophaling:** Je krijgt van mij een berichtje zodra de print(s) klaar zijn voor ophaling hier in Edegem. Mocht je nog vragen hebben over de materiaalkeuze of de afwerking, laat het dan gerust weten!
 
 Vriendelijke groet,
 
