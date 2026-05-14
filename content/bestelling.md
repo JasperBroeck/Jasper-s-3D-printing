@@ -2,6 +2,8 @@
 sidebar:
   exclude: true
 ---
+**Subject:** Bestelling @ Jasper's 3D Printing
+
 Dag **\[Naam Klant\]**,
 
 Bedankt voor je aanvraag bij Jasper's 3D Printing! Ik heb je bestand(en) bekeken en de printinstellingen in de slicer geoptimaliseerd.
