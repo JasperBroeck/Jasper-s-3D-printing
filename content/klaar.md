@@ -1,3 +1,8 @@
+---
+sidebar:
+  exclude: true
+---
+
 # Ophaling
 
 **Subject:** Je bestelling is klaar voor ophaling! – Jasper's 3D Printing
